@@ -1,5 +1,5 @@
 <a href="https://sqil.org/">
-    <img src="logo.png" width="100%" />
+    <img src="../logo.png" width="100%" />
 </a>
 
 # Our Mission
